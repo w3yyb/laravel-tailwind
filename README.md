@@ -16,7 +16,24 @@ Install dependencies
  ```bash
  yarn
  ```
+1. Copy or rename .env.example into .env.
+2. Create an empty database and type it's credentials into your .env file.
+3. Generate an APP_KEY:
+
+```
+php artisan key:generate
+```
+
+1. Migrate and seed the database:
+
+```
+php artisan migrate --seed
+```
+
+
+
  Run serve
+
  ```bash
  php artisan serve
  ```
