@@ -12,7 +12,12 @@
         "laravel/jetstream": "^2.3",
         "laravel/sanctum": "^2.6",
         "laravel/tinker": "^2.5",
-        "livewire/livewire": "^2.5"
+        "livewire/livewire": "^2.5",
+         "blade-ui-kit/blade-heroicons": "^1.2",
+        "blade-ui-kit/blade-icons": "^1.1",
+        "blade-ui-kit/blade-ui-kit": "^0.3",
+        "blade-ui-kit/blade-zondicons": "^1.1",
+        "fideloper/proxy": "^4.3"
     },
     "require-dev": {
         "facade/ignition": "^2.5",
