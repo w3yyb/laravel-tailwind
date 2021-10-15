@@ -44,24 +44,15 @@
       </nav>
       <main class="content">
         <div>
-          <p>@{{ message }}</p>
+          <p> </p>
           {{ $slot }}
         </div>
       </main>
     </section>
   </div>
   <script src="{{ mix('js/app.js') }}"></script>
-  <script src="/js/vue.js"></script>
 
-  <script>
-    var app = new Vue({
-      el: '#app',
-      data: {
-        message: 'Hello from VueJs!',
-        sidebar: true,
-      }
-    })
-  </script>
+   
   @env ('local')
     <script src="http://localhost:3000/browser-sync/browser-sync-client.js"></script>
   @endenv
