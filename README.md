@@ -1,5 +1,10 @@
 ## Laravel Tailwind Admin  Dashboard
+Minimal - very minimal dashboard for laravel admin Using Blade's UI Kit and Icons. JetStream for authentication and Tailwind CSS. using Livewire Datatables.Made use also of Livewire components.
+
+
+
 ### Important files
+
  - [resources/css/app/css](\resources\css\app.css)
  - [resources/views/layouts/admin.blade.php](\resources\views\layouts\admin.blade.php)
 
