@@ -1,0 +1,7 @@
+
+
+todo:
+https://github.com/Gustavinho/laravel-views -(css & js is old)
+https://github.com/tanthammar/tall-forms/ -
+https://github.com/protonemedia/laravel-form-components-
+https://github.com/MedicOneSystems/livewire-datatables
